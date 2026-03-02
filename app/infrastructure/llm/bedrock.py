@@ -26,7 +26,7 @@ class BedrockLLM(BaseLLM):
 
         body = json.dumps({
             "anthropic_version": "bedrock-2023-05-31",
-            "max_tokens": 2000,
+            "max_tokens": 1000,
             "temperature": 0.3,
             "messages": [
                 {"role": "user", "content": prompt}
