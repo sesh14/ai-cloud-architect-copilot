@@ -1,4 +1,4 @@
-# AI Cloud Architect Copilot
+## AI Cloud Architect Copilot
 
 [![CI](https://github.com/sesh14/ai-cloud-architect-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/sesh14/ai-cloud-architect-copilot/actions)
 
